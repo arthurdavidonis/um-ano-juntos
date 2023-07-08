@@ -1,0 +1,203 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+*{
+    margin: 0px;
+}
+
+.title{
+    text-align: center;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.4em;
+    background-color: #E65A5E;
+    padding: 2px;
+    
+}
+
+.dataimportante{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    background-image: linear-gradient(to right, #ebe6c7, white);
+    height: 40px;
+    padding: 0px;
+    border-radius: 8px;
+    box-shadow: black 1px 1.5px 1px;
+    margin: 3px;
+    color: #F01380;
+}
+
+.sub{
+    text-align: center ;
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    background-color: #E65A5E;
+    padding: 6px;
+   
+}
+
+
+body{
+    background-color:#ebe6c7 ;
+}
+p{
+    padding: 5px;
+    font-size: 1.08em;
+}
+
+
+main{
+    background-color: #ee4d52;
+    color: white;
+    max-width: 950px;
+    margin: auto;
+    display: block;
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-radius: 0px;
+    box-shadow: black 1.5px 1.8px 2px;
+    
+}
+
+.margem{
+    margin: 30px;
+    margin-top: 0px;
+   
+}
+
+.titlec{
+    font-family: 'Dancing Script', cursive; ;
+    font-size: 2.4em;
+    padding: 5px;
+    color: #F01380;
+    background-image: linear-gradient(to right, #ebe6c7, white);
+    height: 50px;
+    padding: 0px;
+    border-radius: 8px;
+    box-shadow: black 1px 1.5px 1px;
+    margin: 3px;
+    text-align: center;
+   
+}
+
+.tt{
+    display: block;
+    margin: auto;
+}
+
+.dia{
+    background-color: #e06761;
+    border-radius: 10px;
+    margin-bottom: 14px;
+    
+}
+
+
+li{
+    font-weight: normal;
+    font-size: 1em;
+    text-align: left;
+    padding: 2px;
+    list-style-type: circle;
+    
+    
+}
+
+.listtitle{
+    font-size: 1.8em;
+    padding: 5px;
+}
+
+
+
+.pikachu{
+    height: 150px;
+    
+}
+
+.pokemon{
+    display: flex;
+    justify-content: center;
+}
+
+strong{
+    color: black;
+}
+
+.fim{
+    background-color: #e06761;
+    border-radius: 10px;
+}
+
+.filmes{
+    background-color: #db3755;
+    border-radius: 10px;
+}
+
+.boxfilmes{
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    margin: 10px;
+    
+    
+}
+
+.miranha{
+    width: 170px;
+    height: 250px;
+    padding: 15px;
+    margin: 5px;
+    
+}
+
+.miranha:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition-duration: 0.8s;
+    
+    
+    
+    
+    
+}
+   
+
+.furiosos{
+    width: 170px;
+    height: 250px;
+    padding: 15px;
+    margin: 5px;
+
+}
+
+.furiosos:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition-duration: 0.8s;
+    
+    
+}
+
+.fotosus{
+    display: flex;
+    justify-content: center;
+}
+
+.rosto{
+    width: 200px;
+    border-radius: 50%;
+    
+}
+
+.make{
+    width: 200px;
+     border-radius: 50%;
+}
+
+
+
+
